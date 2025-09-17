@@ -1,2 +1,2 @@
 # demo-2
-This my fist repo
+This is my fist repo
